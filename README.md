@@ -1,6 +1,6 @@
 # QR Code Generator
 
-This simple Node.js application generates a QR code from a user-provided URL and saves it as an image file. Additionally, the URL is saved to a text file and read back to the console.
+This simple Node.js application generates a QR code from a user-provided URL and saves it as an image file.
 
 ## Features
 
@@ -8,7 +8,6 @@ This simple Node.js application generates a QR code from a user-provided URL and
 - Generates a QR code image for the provided URL.
 - Saves the QR code as `qr_img.png`.
 - Writes the provided URL to a file named `userInput.txt`.
-- Reads and logs the contents of `userInput.txt` to the console.
 
 ## Installation
 
